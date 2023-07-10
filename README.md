@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif)]
 <h1 align="center">Hi 👋, I'm Jyoti Swami</h1>
 <h3 align="center">I am a web developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=740&t=st=1689003715~exp=1689004315~hmac=a77bd6c9edc728489928563a92ea7ef9b81a8e8ef5ebcf2ae04503604c6cac95](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti145&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti145" /> </p>
 
